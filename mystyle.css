@@ -52,7 +52,7 @@ p { /* lets make sure paragraphs have space around the text and not touching oth
 
 header {
     height: 250px;
-    background-image: url("https://i.imgur.com/KjdQTqs.jpeg"); /* The image used */
+    background-image: url("https://i.imgur.com/sQzpwgw.jpeg"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
